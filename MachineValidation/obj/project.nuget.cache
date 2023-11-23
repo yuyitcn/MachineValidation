@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8IR54Qb9NAvDYLjfkzw+/QqA/I9cGrpPFRUARJl8dJ8RIpHrPeBkzCQKGiMPTlYMJAB+KR93akpyCPUPblVUQ==",
+  "success": true,
+  "projectFilePath": "D:\\test\\MachineValidation\\MachineValidation\\MachineValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.fonts\\2.0.0\\sixlabors.fonts.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sixlabors.imagesharp.drawing\\2.0.1\\sixlabors.imagesharp.drawing.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.csproj.AssemblyReference.cache
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.Properties.Resources.resources
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.csproj.GenerateResource.cache
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.AssemblyInfoInputs.cache
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.AssemblyInfo.cs
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.csproj.CoreCompileInputs.cache
+D:\test\MachineValidation\MachineValidation\bin\Debug\net6.0\MachineValidation.deps.json
+D:\test\MachineValidation\MachineValidation\bin\Debug\net6.0\MachineValidation.dll
+D:\test\MachineValidation\MachineValidation\bin\Debug\net6.0\MachineValidation.pdb
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.dll
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\refint\MachineValidation.dll
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\MachineValidation.pdb
+D:\test\MachineValidation\MachineValidation\obj\Debug\net6.0\ref\MachineValidation.dll
